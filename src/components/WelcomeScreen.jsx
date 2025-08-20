@@ -28,7 +28,7 @@ const WelcomeScreen = ({ onWelcomeComplete }) => {
   };
 
   const currentColors = colors[theme] || colors.dark;
-  const portfolioUrl = "sahilfullstackportfolio.netlify.app";
+  const portfolioUrl = "https://stately-salamander-508b05.netlify.app/";
   const welcomeMessages = [
     "Development experiences",
     "MCA Graduate",
