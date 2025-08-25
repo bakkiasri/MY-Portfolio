@@ -33,7 +33,8 @@ const projects = [
     id: 1,
     title: "Work List.",
     category: "Dairy",
-    description: "Remember the work to do in a day",
+    description:
+      "Remember the work to do in a day username:admin password : 12345",
     image: "/projects/project1.png",
     tags: ["React", "Tailwind", "Api", "Fake Api"],
     demoUrl: "https://glistening-cocada-d939b5.netlify.app/",
